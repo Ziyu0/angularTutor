@@ -1,0 +1,23 @@
+.boxRed{
+  position: relative;
+  top: 100px;
+  left: 100px;
+  border-top: 5px red solid;
+  border-left: 5px red solid;
+  border-right: 5px red solid;
+  border-bottom: 5px red solid;
+  width: 500px;
+  height: 500px;
+}
+
+.boxBlue{
+  position: absolute;
+  top: 495px;
+  left: 495px;
+  border-top: 5px blue solid;
+  border-left: 5px blue solid;
+  border-right: 5px blue solid;
+  border-bottom: 5px blue solid;
+  width: 200px;
+  height: 200px;
+}
